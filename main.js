@@ -33,3 +33,5 @@ function grammer(s, t) {
 
 //show only result of s1 and t1 if you want to change it just put in a diffrend number
 console.log(grammer(s1, t1)); 
+
+// I pushed my code, but I forgot to put this in my notes on GitHub. The error I was reverting to was error  in leet code.
